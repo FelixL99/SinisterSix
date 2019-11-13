@@ -6,8 +6,10 @@ export default props => {
       
    //<Menu customBurgerIcon={ <img src="img/icon.svg" /> } />
       
-    <Menu customCrossIcon={ false }>
-      <h2>Sparade Budget</h2>
+    <Menu customCrossIcon={ false } customBurgerIcon={ <img src="img/menu-icon.svg" /> } >
+      <h2 className="menu-header">Sparade Budget</h2>
+      
+      <hr className="menu-hr" />
       
       <a className="menu-item" href="/#">
         Home
