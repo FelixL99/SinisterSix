@@ -1,19 +1,16 @@
 import React from 'react';
-
-import './style.css';
-import SideBar from './sidebar.js';
+import SideBar from "./sidebar";
+import './App.css';
 
 function App() {
   return (
-    
     <div id="App">
-      <SideBar />
+      <SideBar/>
 
       <div id="page-div">
         <h1>Hello World</h1>
       </div>
     </div>
-
   );
 }
 

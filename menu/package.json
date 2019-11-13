@@ -1,9 +1,10 @@
 {
-  "name": "test",
+  "name": "menu",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
     "react": "^16.11.0",
+    "react-burger-menu": "^2.6.12",
     "react-dom": "^16.11.0",
     "react-scripts": "3.2.0"
   },
