@@ -6,7 +6,7 @@ export default props => {
       
    //<Menu customBurgerIcon={ <img src="img/icon.svg" /> } />
       
-    <Menu customCrossIcon={ false } customBurgerIcon={ <img src="img/menu-icon.svg" /> } >
+    <Menu customCrossIcon={ false } >
       <h2 className="menu-header">Sparade Budget</h2>
       
       <hr className="menu-hr" />
