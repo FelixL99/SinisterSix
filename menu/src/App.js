@@ -1,5 +1,6 @@
 import React from 'react';
 import SideBar from "./sidebar.js";
+import Toggle from "./toggle.js";
 import './App.css';
 
 function App() {
