@@ -1,0 +1,132 @@
+body {
+  text-align: center;
+  display: flex;
+  height: 100%;
+  width: 480px;
+  background: radial-gradient(100% 100% at 49.88% 0%, #304D6D 34.37%, #2E6171 100%);
+}
+
+.App p{
+  
+  margin-left: 10px;
+  font-size: 13px;
+}
+
+
+
+.fullBox{
+  
+  background-color:  rgba(130, 160, 188, 0.3);
+  height: 50%;
+  width: 95%;
+  margin-left: 10px;
+  
+
+}
+
+.fullBox p{
+  display: block;
+
+  
+  
+}
+.fullBox input {
+  
+  width: 327px;
+  height: 39px;
+  background: rgba(167, 204, 237, 0.2); 
+  border: 1px solid #A7CCED;
+  box-sizing: border-box;
+  border-radius: 10px;
+  margin-bottom: 10px;
+  Align: Inside;
+  
+}
+.fullBox button {
+  
+  width: 327px;
+  height: 39px;
+  background: rgba(167, 204, 237, 0.2);
+  border: 1px solid #A7CCED;
+  box-sizing: border-box;
+  border-radius: 10px;
+  margin-bottom: 10px;
+  margin-top: 10px;;
+  color:#A7CCED ;
+  
+}
+.fullBox p {
+  
+  margin-bottom: 0px;
+  display: block;
+  color: #A7CCED;
+  
+}
+::placeholder {
+  color: red;
+}
+
+.fullBox p {
+  
+  color: #A7CCED;
+  
+}
+p.largeP
+{
+  font-size: 15px;
+}
+
+ul
+{
+  list-style-type: none;
+  padding-inline-start: 0px;
+}
+
+.upperBox
+{
+  
+  border-bottom: solid;
+  border-width: medium;
+  border-color: #A7CCED;
+}
+.middleBox
+{
+  
+  border-bottom: solid;
+  border-width: medium;
+  border-color:#A7CCED;
+}
+
+.lowerBox
+{
+  
+  border-bottom: solid;
+  border-width: medium;
+  border-color:#A7CCED;
+}
+
+.lowerBox2
+{
+  
+  border-bottom: solid;
+  border-width: medium;
+  border-color:#A7CCED;
+}
+.sendClas {
+  display: flex;
+  
+}
+.sendClass button
+{
+  height: 60px;
+  width: 60px;
+  border-radius: 50%;
+  
+  margin-left: 80%;
+  margin-top: 2%;
+  margin-bottom: 5%;
+  background:#2E6171;
+  border: 2px solid #A7CCED
+
+  
+}
